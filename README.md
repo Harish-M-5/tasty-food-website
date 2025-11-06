@@ -45,8 +45,6 @@ ___
 
 
 ## ⚙️ Installation & Setup
-Follow these steps to run the project locally 👇
-
 1️⃣ Clone this repository
 git clone https://github.com/harish/tasty-foods.git
 
