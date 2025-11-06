@@ -17,14 +17,6 @@ The project is designed with a modern UI,  and dynamic sections such as “Choos
 
 ---
 
-## 🧠 Usage
-1. Clone the repository or download the ZIP file.  
-2. Open `index.html` in your browser to preview the site.  
-3. Replace the placeholder images in the `images/` folder with your own.  
-4. Customize the text and colors in `style.css` if required.  
-
-
----
 
 ## 🧩 Technology Used
 
