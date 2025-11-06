@@ -48,7 +48,7 @@ ___
 Follow these steps to run the project locally 👇
 
 1️⃣ Clone this repository
-git clone https://github.com/yourusername/tasty-foods.git
+git clone https://github.com/harish/tasty-foods.git
 
 2️⃣ Navigate into the folder
 cd tasty-foods
