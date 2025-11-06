@@ -35,6 +35,14 @@ The project is designed with a modern UI,  and dynamic sections such as “Choos
 
 ---
 
+## 🎯 Project Main Goal
+
+This project is created for a Rome-based client where Latin is commonly used.
+
+The website is designed to look and feel like an international food brand — stylish, modern and fully responsive — so it can be used by foreign clients for their restaurant or online food business
+
+---
+
 ## 🗣️ Text Langauge
 
 Latin:
