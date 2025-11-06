@@ -1,5 +1,5 @@
 # tasty-food-website
-A clean and responsive tasty food website 🎨
+A clean and responsive tasty food website in Rome syle language 
 
 ---
 
@@ -34,6 +34,15 @@ The project is designed with a modern UI,  and dynamic sections such as “Choos
 | 🎨 Design Elements  | Google Fonts, Font Awesome       | Icons and typography                             |
 
 ---
+
+## 🗣️ Text Langauge
+
+Latin:
+Latin is a classical language belonging to the Itali(Rome) branch of the Indo-European
+languages
+
+___
+
 
 ## ⚙️ Installation & Setup
 Follow these steps to run the project locally 👇
