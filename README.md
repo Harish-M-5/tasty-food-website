@@ -1,5 +1,5 @@
 # tasty-food-website
-A clean and responsive tasty food website in Rome syle language 
+A clean and responsive tasty food website in Rome style latin language 
 
 ---
 
