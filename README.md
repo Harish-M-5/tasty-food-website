@@ -66,13 +66,6 @@ You’re free to use, modify, and distribute it for personal or educational purp
 
 ---
 
-## ☁️ Deployment:
-
-Using Netlify
-
-https://690ca0d84a3e6a00d485e8a7--tastyfoodharish.netlify.app/
-
----
 
 ## 🎥 Output 
 <img width="1920" height="1080" alt="Screenshot 2025-11-06 172007" src="https://github.com/user-attachments/assets/23df1816-16ac-4886-b3ee-b2439e47b9cf" />
